@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "Unbricked",
-  "version": "1.0",
+  "version": "1.1",
 
   "description": "Fixes the things that bricked Bricklink.",
 
