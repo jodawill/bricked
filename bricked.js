@@ -1,4 +1,4 @@
-// Enter the 1984 as the birth year
+// Enter 1984 as the birth year
 const inputFields = document.querySelectorAll('.blp-age-gate__input-group .blp-age-gate__input-field');
 const year = '1984';
 
